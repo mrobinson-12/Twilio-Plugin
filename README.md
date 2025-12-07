@@ -8,7 +8,7 @@ Display incoming Twilio SMS messages on an FPP PixelOverlay/Matrix/P5 panel with
 - Network reachability from Twilio to your FPP instance
 
 ## Install
-1. Copy this folder to your FPP plugins directory: `/home/fpp/media/plugins/TwilioChristmasPanel`.
+1. Copy the plugin files to your FPP plugins directory: `/home/fpp/media/plugins/TwilioChristmasPanel`.
 2. Ensure it is owned by the fpp user: `sudo chown -R fpp:fpp /home/fpp/media/plugins/TwilioChristmasPanel`.
 3. Restart FPPD (UI button or `/opt/fpp/scripts/stop && /opt/fpp/scripts/start`).
 4. Open FPP UI → Content Setup → Plugins → Twilio Christmas Panel to configure.

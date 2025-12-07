@@ -1,0 +1,17 @@
+{
+    "repoName": "Twilio-Plugin",
+    "name": "Twilio Christmas Panel",
+    "author": "OpenAI Codex",
+    "description": "Display Twilio SMS messages on a P5 panel with Christmas formatting and profanity filtering.",
+    "homeURL": "https://github.com/mrobinson-12/Twilio-Plugin",
+    "srcURL": "https://github.com/mrobinson-12/Twilio-Plugin.git",
+    "bugURL": "https://github.com/mrobinson-12/Twilio-Plugin/issues",
+    "versions": [
+        {
+            "minFPPVersion": "9.0",
+            "maxFPPVersion": "0",
+            "branch": "master",
+            "sha": ""
+        }
+    ]
+}
