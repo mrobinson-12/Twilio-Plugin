@@ -9,7 +9,7 @@ function GetPluginInfo()
         'displayName' => 'Twilio Christmas Panel',
         'author' => 'OpenAI Codex',
         'email' => '',
-        'homepage' => 'https://example.com',
+        'homepage' => 'https://github.com/mrobinson-12/Twilio-Plugin',
         'version' => '1.0.0',
         'requires' => '9.0',
         'hasSettings' => true
@@ -23,7 +23,7 @@ function GetPluginMetaData()
         'displayName' => 'Twilio Christmas Panel',
         'version' => '1.0.0',
         'author' => 'OpenAI Codex',
-        'homepage' => 'https://example.com'
+        'homepage' => 'https://github.com/mrobinson-12/Twilio-Plugin'
     );
 }
 
