@@ -1,0 +1,10 @@
+{
+  "pluginName": "TwilioChristmasPanel",
+  "author": "OpenAI Codex",
+  "homeURL": "https://example.com",
+  "description": "Display Twilio SMS messages on a P5 panel with Christmas formatting and profanity filtering.",
+  "sourceURL": "",
+  "minFPPVersion": "9.0",
+  "maxFPPVersion": "9.99",
+  "hasSettings": true
+}
